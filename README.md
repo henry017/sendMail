@@ -20,4 +20,3 @@ content变量的内容为邮件正文内容
 需要发送文本或者图片附件 讲对应open的文件路径换为需要替换的文件路径即可
 更改邮件发送内容 只需要更改 content变量内容即可
 基于python3 直接cmd执行> python sendemail.py既可以看到发送信息
-
