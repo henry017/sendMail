@@ -6,7 +6,7 @@ smtp_server = 'smtp.mxhichina.com'  #smtp服务地址
 from_mail = 'your email'   #邮箱账号
 mail_passwd = 'your password'  #密码 有的邮箱比如qq|163需要填的是客户端授权码
 to_mail = ['email1@qq.com', 'email2@qq.com']  #发送目标
-subject = '任务' + getnow() #发送邮件主题
+subject = '任务' + getnow() #发送邮件主题 
 
 content变量的内容为邮件正文内容
 
